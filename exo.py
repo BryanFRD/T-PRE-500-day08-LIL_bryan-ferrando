@@ -48,7 +48,7 @@ def t1():
 
   root.mainloop()
   
-#t1()
+t1()
 
 root = Tk()
 root.geometry("500x600")
